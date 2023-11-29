@@ -4,3 +4,17 @@ h1{
 .dropdown-menu .dropdown-item{
     color:rgb(255, 81, 0);
 }
+.imgindex{
+    width: 90vw;
+   padding: 5px;
+}
+.duascolunas{
+    display: grid;
+    
+    
+}
+.textindex{
+    
+}
+
+
